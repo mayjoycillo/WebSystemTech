@@ -1,10 +1,8 @@
 # WebSystemTech
 
-<<<<<<< HEAD
 Billonid, Faizza
 Cillo, MAyjoy 
 Sumayod, Charl Vincent
-=======
 MyLikes:
 
 1. movies
@@ -17,4 +15,3 @@ MyLikes:
 8. treat everyone with respect
 9. laughter
 10. actively listen
->>>>>>> My-Likes
